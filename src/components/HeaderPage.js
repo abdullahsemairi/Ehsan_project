@@ -18,7 +18,7 @@ const particalsOption = {
       type: "circle",
       stroke: {
         width: 0,
-        color: "#000000",
+        color: "#B20000",
       },
       polygon: {
         nb_sides: 12,
@@ -52,7 +52,7 @@ const particalsOption = {
     line_linked: {
       enable: true,
       distance: 150,
-      color: "#ffffff",
+      color: "#079CA0",
       opacity: 0.5772283419115882,
       width: 3.52750653390415,
     },

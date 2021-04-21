@@ -22,7 +22,7 @@ const Sidebarabc = ({ isOpen, toggle }) => {
       <SidebarWrapper>
         <SidebarMenu>
           <SidebarLink to="SignUp"></SidebarLink>
-          <SidebarLink to="../Pages/Home" onClick={toggle}>
+          <SidebarLink to="/" onClick={toggle}>
             Home
           </SidebarLink>
           <SidebarLink to="/ProductsCard" onClick={toggle}>
