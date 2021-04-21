@@ -1,0 +1,31 @@
+.headersecondpage{
+    background-image: linear-gradient(to right top, #8c49fa, #6f36d6, #5224b4, #361192, #170072);width: 100%;
+height:1200%;
+text-align: center;
+z-index: -20;
+
+
+}
+
+
+    
+    
+
+
+.tsparticles-canvas-el{
+    height: 1200% !important;
+    
+}
+
+
+
+.center {
+
+width: 10%;
+height: 70px;
+position: absolute;
+top: 38%;
+left: 50%;
+margin: -35px 0 0 -35px;
+   
+    }

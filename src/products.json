@@ -1,0 +1,25 @@
+{
+  "0": {
+    "category": "furniture",
+    "description": "good table",
+    "image": "https://cdn2.mathi-design.net/9639/vintage-low-table.jpg",
+    "price": 70,
+    "quantity": 40,
+    "title": "table"
+  },
+  "1": {
+    "category": "furniture",
+    "description": "very good sofa",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiMCFGrhBDCNOo707TQpB96RS4Ecj0yz5VWFpof6VZluKgGVftkeT24Pq9WwK2uJR6ko&usqp=CAU",
+    "price": 710,
+    "quantity": 45,
+    "title": "sofa"
+  },
+  "-MY-kkI1qk2Pv7W_fkaV": {
+    "description": "yellow chair",
+    "image": "https://www.barkerandstonehouse.co.uk/images/swatchzoom/TWYFCHAIYELL_1_Zoom.jpg",
+    "price": 12,
+    "quantity": 41,
+    "title": "chair"
+  }
+}

@@ -1,0 +1,17 @@
+
+.footer {
+  flex-shrink: 0;
+  text-align: center;
+  background-image: radial-gradient(circle, #57aacb, #58b6c6, #68c0be, #80c9b5, #9cd0ad);  height: 200px;
+  display: grid;
+  
+  
+ 
+}
+
+.footer {
+    border-color: darkorange;
+    color: darkorange;
+   
+  
+}
