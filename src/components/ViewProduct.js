@@ -38,7 +38,7 @@ export default class ViewProduct extends Component {
           </article>
           <br /> <br />
           <br /> <br />
-          <ListGroup style={{ height: "100px", width: "50%", marginLeft: "25%" }} className="align-items-center">
+          <ListGroup style={{ height: "700px", width: "50%", marginLeft: "25%" }} className="align-items-center">
             <Image src={this.state.product.image} />
             <ListGroup.Item>
               <strong>Title:</strong>

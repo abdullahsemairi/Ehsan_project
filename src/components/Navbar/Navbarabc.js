@@ -15,7 +15,7 @@ const Navbarabc = ({ toggle }) => {
     <>
       <Nav>
         <NavLink to="/">
-          <img className="imglogo" src="LogoPNG.png"></img>
+          <img className="imglogo" src={window.location.origin + "/LogoPNG.png"}></img>
         </NavLink>
 
         <MobileIcon onClick={toggle}>
